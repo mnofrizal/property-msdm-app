@@ -133,7 +133,7 @@ const Header = () => {
                 {" "}
                 <div className="flex justify-center">
                   <p className="lg:hidden block text-[60px] lg:text-[60px] 2xl:text-[75px] leading-tight font-bold tracking-wide">
-                    Monitoring Pendayagunaan
+                    Monitoring Aset
                   </p>
                   <p className="lg:block hidden text-[50px] lg:text-[60px] 2xl:text-[75px] leading-tight font-bold tracking-wide">
                     Monitoring
